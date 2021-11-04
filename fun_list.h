@@ -1,3 +1,5 @@
+/* Code inspired by GeeksforGeeks */
+
 #include <stdio.h>
 #include <stdlib.h>
 
